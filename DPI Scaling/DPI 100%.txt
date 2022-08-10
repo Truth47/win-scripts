@@ -1,0 +1,1 @@
+Questo script modifica la visualizzazione affinchè non vi sia lo zoom.
